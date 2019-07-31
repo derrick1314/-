@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pwc-basic-parent/pwc-basic-generator/pwc-basic-generator.iml" filepath="$PROJECT_DIR$/pwc-basic-parent/pwc-basic-generator/pwc-basic-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pwc-basic-parent/pwc-basic-parent.iml" filepath="$PROJECT_DIR$/pwc-basic-parent/pwc-basic-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pwc-basic-parent/pwc-basic-util/pwc-basic-util.iml" filepath="$PROJECT_DIR$/pwc-basic-parent/pwc-basic-util/pwc-basic-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pwc-config-server/pwc-config-server.iml" filepath="$PROJECT_DIR$/pwc-config-server/pwc-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pwc-eureka/pwc-eureka.iml" filepath="$PROJECT_DIR$/pwc-eureka/pwc-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pwc-parent.iml" filepath="$PROJECT_DIR$/pwc-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pwc-plat-parent/pwc-plat-interface/pwc-plat-interface.iml" filepath="$PROJECT_DIR$/pwc-plat-parent/pwc-plat-interface/pwc-plat-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pwc-plat-parent/pwc-plat-parent.iml" filepath="$PROJECT_DIR$/pwc-plat-parent/pwc-plat-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pwc-plat-parent/pwc-plat-service/pwc-plat-service.iml" filepath="$PROJECT_DIR$/pwc-plat-parent/pwc-plat-service/pwc-plat-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pwc-product-parent/pwc-product-interface/pwc-product-interface.iml" filepath="$PROJECT_DIR$/pwc-product-parent/pwc-product-interface/pwc-product-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pwc-product-parent/pwc-product-parent.iml" filepath="$PROJECT_DIR$/pwc-product-parent/pwc-product-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pwc-product-parent/pwc-product-service/pwc-product-service.iml" filepath="$PROJECT_DIR$/pwc-product-parent/pwc-product-service/pwc-product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pwc-zuul/pwc-zuul.iml" filepath="$PROJECT_DIR$/pwc-zuul/pwc-zuul.iml" />
+    </modules>
+  </component>
+</project>

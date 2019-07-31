@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pwc-basic-generator" />
+        <module name="pwc-basic-parent (1)" />
+        <module name="pwc-basic-util" />
+        <module name="pwc-config-server" />
+        <module name="pwc-eureka" />
+        <module name="pwc-plat-interface" />
+        <module name="pwc-plat-service" />
+        <module name="pwc-product-interface" />
+        <module name="pwc-product-service" />
+        <module name="pwc-zuul" />
+        <module name="pwceureka" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pwc-basic-generator" target="8" />
+      <module name="pwc-basic-parent" target="8" />
+      <module name="pwc-basic-parent (1)" target="1.5" />
+      <module name="pwc-basic-util" target="8" />
+      <module name="pwc-config-server" target="8" />
+      <module name="pwc-config-server (1)" target="1.5" />
+      <module name="pwc-eureka" target="8" />
+      <module name="pwc-parent" target="8" />
+      <module name="pwc-plat-interface" target="8" />
+      <module name="pwc-plat-parent" target="8" />
+      <module name="pwc-plat-service" target="8" />
+      <module name="pwc-product-interface" target="8" />
+      <module name="pwc-product-parent" target="8" />
+      <module name="pwc-product-service" target="8" />
+      <module name="pwc-zuul" target="8" />
+      <module name="pwceureka" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

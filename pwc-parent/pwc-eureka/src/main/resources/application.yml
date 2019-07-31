@@ -1,0 +1,10 @@
+server:
+  port: 6001
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    registerWithEureka: false   #不需要在注册中心注册
+    fetchRegistry: false   #不用获取注册表
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/  #直接取上面的值
